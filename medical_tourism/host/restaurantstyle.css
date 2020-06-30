@@ -1,0 +1,32 @@
+.padBottom20 {
+    padding-bottom: 10px;
+}
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 24px;
+    color: inherit;
+}
+
+#accordion .panel-heading .panel-title {
+    font-family: 'Locator-Regular',Calibri,Arial,sans-serif;
+    font-weight: 500;
+}
+
+#accordion .panel-heading {
+    padding: 15px;
+    color: #ffffff;
+    background-color: #333333;
+    border: none;
+}
+
+.glyphicon-minus-sign:before {
+    content: "\e082";
+}
+
+a, a:hover, a:focus
+{
+    text-decoration: none;
+}
+     

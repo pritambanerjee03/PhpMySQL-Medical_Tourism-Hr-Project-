@@ -1,0 +1,7 @@
+<li class="active"><a data-toggle="tab" href="#home"><img src="images/logo/CKB_700X350.jpg" alt="Park" height="80px" width="150px"><h4 class="text-center">Medicine</h4></a></li>
+    <li><a data-toggle="tab" href="#menu1"><img src="images/logo/CTVS-Feature.jpg" alt="Park" height="80px" width="150px"><h4 class="text-center">Cardiology</h4></a></li>
+    <li><a data-toggle="tab" href="#menu2"><img src="images/logo/Psychiatry-Feature.jpg" alt="Park" height="80px" width="150px"><h4 class="text-center">Neuro-Science</h4></a></li>
+    <li><a data-toggle="tab" href="#menu3"><img src="images/logo/Dermatology-Feature.jpg" alt="Park" height="80px" width="150px"><h4 class="text-center">Dermatology</h4></a></li>
+    <li><a data-toggle="tab" href="#menu4"><img src="images/logo/gastro-log.jpg" alt="Park" height="80px" width="150px"><h4 class="text-center">Gastro-Scineces</h4></a></li>
+    <li><a data-toggle="tab" href="#menu5"><img src="images/logo/Gynae-Oncology-Featur.jpg" alt="Park" height="80px" width="150px"><h4 class="text-center">Gynae-Oncology</h4></a></li>
+    

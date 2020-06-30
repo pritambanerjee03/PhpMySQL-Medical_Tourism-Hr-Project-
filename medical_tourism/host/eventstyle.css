@@ -1,0 +1,99 @@
+
+.carouselnew .btn
+{
+    padding: 10px 50px;
+   
+}
+
+.carouselnew .btn-first
+{
+    background-color: #e74c3c;
+    color: white;
+}
+
+.carouselnew .btn-second
+{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.carouselnew .btn-first:hover,.carousel-caption .btn-second:hover
+{
+    color: black;
+}
+
+.btnl {
+      padding: 10px 20px;
+      background-color: #333;
+      color: #f1f1f1;
+      border-radius: 0;
+      transition: .2s;
+  }
+  .btnl:hover, .btnl:focus {
+      border: 1px solid #333;
+      background-color: #fff;
+      color: #000;
+  }
+  .modal-header, #h4, .close {
+      background-color: #333;
+      color: #fff !important;
+      text-align: center;
+      font-size: 25px;
+
+  }
+  .modal-header
+  {
+    padding: 20px 30px;
+   } 
+   .modal-body {
+      padding: 20px 30px;
+      margin-bottom: -35px;
+  
+  }
+
+.modal-header {
+
+    background-color: #333;
+
+    padding:16px 16px;
+
+    color:#FFF;
+
+    height: 60px;
+    margin-bottom: 10px;
+
+    
+
+ }
+
+.modal-dialog {
+ 
+          width: 340px;
+
+ 
+        }
+ .thumbnail {
+      padding: 0 0 15px 0;
+      border: none;
+      border-radius: 0;
+  }
+  .thumbnail p {
+      margin-top: 15px;
+      color: #555;
+  }
+    
+     .carousel-inner img {
+     /* -webkit-filter: grayscale(90%);
+      filter: grayscale(90%);  make all photos black and white */ 
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+  }
+  .carousel-caption h3 {
+      color: #fff !important;
+  }
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+  }
+

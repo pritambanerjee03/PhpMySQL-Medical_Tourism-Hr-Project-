@@ -1,0 +1,36 @@
+.padBottom20 {
+    padding-bottom: 20px;
+}
+
+.marBottom30 {
+    margin-bottom: 30px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.marBottom25 {
+    margin-bottom: 25px;
+}
+ul {
+    padding-left: 10px;
+    list-style-image: url(images/list-arrow.gif);
+}
+ul li {
+    margin-bottom: 10px;
+}
+.form-control {
+    color: #6C1D49;
+}

@@ -1,0 +1,77 @@
+#headerImage {
+    display: block;
+    /* max-height: 200px; */
+    position: relative;
+    clear: both;
+}
+
+.image img {
+    margin-bottom: -5%;
+}
+.pageHeaderName {
+    background: rgba(252, 214, 69, .9);
+    padding: 10px 15px;
+}
+.pageHeaderName h1 {
+    margin: 0px;
+    color: #f01318;
+    font-family: 'Locator-Light',Calibri,Arial,sans-serif;
+    font-weight: 400;
+}
+.media
+{
+    margin-bottom: 30px;
+    background: burlywood;
+    padding: 10px 10px;
+    border: 3px solid brown;
+    min-height: 210px;
+    overflow: hidden;  
+}
+
+.media:hover {
+    margin-bottom: 30px;
+    background: #8fbc8f;
+    padding: 10px 10px;
+    border: 3px solid #8fbc8f;
+    border-top: 3px solid black;
+    min-height: 210px;
+    overflow: hidden;
+}
+
+.media-left .btn-sm {
+    padding: 5px;
+    font-size: 13px;
+}
+.marTop15 {
+    margin-top: 15px;
+}
+.media-body {
+    padding-left: 10px;
+}
+
+dl.drprofile {
+    border-top: 1px dotted #333;
+    padding-top: 5px;
+}
+dl {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.btn-success {
+        color: #fff;
+    background-color: #ec7323;
+    border-color: #eb833f;
+}
+.btn-success:hover {
+    color: #fff;
+    border-color: #5bc0de;
+    background-color: #46b8da;
+}
+a {
+    color: #f01318;
+    text-decoration: none;
+}
+dt,dd
+{
+    color: black;
+}

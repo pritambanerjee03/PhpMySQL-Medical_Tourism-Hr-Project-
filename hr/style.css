@@ -1,0 +1,10 @@
+#ab1{
+	border-radius:0;background:url("images/head.jpeg");
+	background-size:cover;height:400px;
+}
+.modal-header
+{
+  color: #fff; 
+    background-color: #007bff; 
+    border-bottom:3px solid red;  
+}
